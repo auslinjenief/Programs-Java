@@ -1,4 +1,4 @@
-                                               Java(class 1)
+                                               Java
 
      CUI & GUI - Character user interface , Graphical user interface.
 
