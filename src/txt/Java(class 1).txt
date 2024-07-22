@@ -1,0 +1,6 @@
+                                               Java(class 1)
+
+     CUI & GUI - Character user interface , Graphical user interface.
+
+     First program - pascal,Basic,Fortran -> In this the datas are not arranged so they introduced C.
+     They develop C program in 1981 & C++ in 1990.
